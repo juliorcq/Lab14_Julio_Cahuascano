@@ -1,0 +1,6 @@
+@Lab06_Julio_Cahuascano_HostAddress = http://localhost:5279
+
+GET {{Lab06_Julio_Cahuascano_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

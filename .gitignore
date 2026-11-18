@@ -1,0 +1,6 @@
+.idea/
+bin/
+obj/
+published/
+appsettings.Development.json
+.vs/
